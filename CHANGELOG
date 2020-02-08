@@ -1,0 +1,17 @@
+	4/25/19 Started Battleship Game
+	4/25/19 created field.h and field.cpp
+	4/25/19 created field and boat objects
+	4/25/19 began generation of fields and boats
+	4/26/19 finished field and boat generation
+	4/26/19 created user.h and user.cpp
+	4/26/19 began implementing user interface
+	4/27/19 made in game stats available
+	4/27/19 began bomb special ability for the player character
+	4/27/19 implemented target and fire operations
+	4/27/19 added color to the fields, boats, and symbols
+	4/29/19 began implementing live feed for in-game actions
+	4/29/19 made feed.h and feed.cpp
+	4/29/19 made global variable 'feed' to store actions
+	4/29/19 finished live feed
+	4/29/19 continued working on special abilities
+	4/29/19 Finished Battlefield Game
