@@ -8,6 +8,18 @@ other teams ships first is the winner.
 
 ## Usage
 
+Once you have the project files downloaded, run the following commands inside the project  
+to start the game
+```
+make
+```
+This will generate the excecutable named 'battle.exe' which you can then excecute with
+```
+./battle
+```
+
+## Gameplay
+
 What the game turn looks like
 
 1) PLACE YOUR SHIPS: you'll be prompted to place ships by pressing 'a'
@@ -22,3 +34,7 @@ appearing in the left corner of the NPC'S field. navigate the cursor using
 the arrow keys and then press 'f' to fire on that location.
 
 4) ENEMY'S TURN: the NPC will fire on you using certain hueristics
+
+## Author
+
+  * **Nick Matthews** - (https://github.com/nickmatthews713)
