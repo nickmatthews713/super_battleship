@@ -1,4 +1,4 @@
-# Mini Battleship - in C
+# Super Battleship
 
 I made a mini battleship game. the rules are similar to regular battleship, except  
 that you have 3 special abilities. you can pick up and use(bomb, torpedo, and flurry).  
