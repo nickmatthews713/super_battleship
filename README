@@ -1,8 +1,9 @@
 # Mini Battleship - in C
 
-I made a mini battleship game. the rules are similar to
-regular battleship, except that you have 3 special abilities
-you can pick up and use(bomb, torpedo, and flurry). The text will walk you through the game and how the ui works. please resize your terminal window to 50 x 24 before playing to fit the screen. The player who destroys the
+I made a mini battleship game. the rules are similar to regular battleship, except  
+that you have 3 special abilities. you can pick up and use(bomb, torpedo, and flurry).  
+The text will walk you through the game and how the ui works. please resize your  
+terminal window to 50 x 24 before playing to fit the screen. The player who destroys the  
 other teams ships first is the winner.
 
 ## Usage
